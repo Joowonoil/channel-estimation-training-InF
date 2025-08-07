@@ -1,0 +1,40 @@
+{
+  "os":  "Linux-5.15.0-52-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.11.9",
+  "startedAt":  "2025-08-04T09:59:24.800853Z",
+  "program":  "/root/channel-estimation-training/Transfer_v4_InF.py",
+  "codePath":  "Transfer_v4_InF.py",
+  "codePathLocal":  "Transfer_v4_InF.py",
+  "git":  {
+    "remote":  "https://github.com/joowonoil/channel-estimation-training.git",
+    "commit":  "065815abc548776d1970d9c7eaca92ac955de97e"
+  },
+  "email":  "joowonoil@g.skku.edu",
+  "root":  "/root/channel-estimation-training",
+  "host":  "f2bc1720e080",
+  "executable":  "/opt/conda/bin/python",
+  "cpu_count":  128,
+  "cpu_count_logical":  255,
+  "gpu":  "NVIDIA GeForce RTX 4090",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "42949672960",
+      "used":  "304336896"
+    }
+  },
+  "memory":  {
+    "total":  "2151642386432"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada",
+      "uuid":  "GPU-0839f4fc-d2ec-7f5a-276c-623e563ab874"
+    }
+  ],
+  "cudaVersion":  "12.8",
+  "writerId":  "psxjqsjlc7e72gbjdr90lwzw9casxc5r"
+}
